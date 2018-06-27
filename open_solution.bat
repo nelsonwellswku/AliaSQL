@@ -1,1 +1,0 @@
-start .\source\AliaSQL.sln
