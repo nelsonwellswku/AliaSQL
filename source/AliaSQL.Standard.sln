@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliaSQL.Core", "AliaSQL.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliaSQL.Console", "AliaSQL.Console\AliaSQL.Console.csproj", "{D93AABF8-689E-415D-98B5-CC8C90545A37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliaSQL.Test", "AliaSQL.Test\AliaSQL.Test.csproj", "{309D72A0-50F6-4233-8C17-8EFBA3B7BCA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D93AABF8-689E-415D-98B5-CC8C90545A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93AABF8-689E-415D-98B5-CC8C90545A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93AABF8-689E-415D-98B5-CC8C90545A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309D72A0-50F6-4233-8C17-8EFBA3B7BCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309D72A0-50F6-4233-8C17-8EFBA3B7BCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309D72A0-50F6-4233-8C17-8EFBA3B7BCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309D72A0-50F6-4233-8C17-8EFBA3B7BCA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
