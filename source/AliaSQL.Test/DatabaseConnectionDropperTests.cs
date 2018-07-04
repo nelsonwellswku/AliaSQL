@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using AliaSQL.Core;
+﻿using AliaSQL.Core;
 using AliaSQL.Core.Model;
 using AliaSQL.Core.Services;
 using AliaSQL.Core.Services.Impl;
